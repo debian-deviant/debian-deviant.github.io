@@ -1,10 +1,10 @@
 <span id="a">binary-dog@myweb-pc</span>:<span id="b">~</span><span id="c">$</span> cd ~/<!-- psudo command goes there -->About_me
-<span id="a">binary-dog@myweb-pc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->binary-dog.txt<br/><br/>
-My favorite code quote, "<span id="k">"Whoopsies"</span>". <!-- my quote -->
+<span id="a">binary-dog@myweb-pc</span>:<span id="b">~</span><span id="c">$</span> cat <!-- this is another comment -->binary-dog.txt<br/><br/>
+My favorite  quote, "<span id="k">"Whoopsies"</span>". <!-- my quote -->
 
 Hey There! you have stumble upon my humble domain.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I welcome all freaks of the world and beyond.</p>
 <p>I been taking things apart all my life.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p> from friendships too comput3rs #nohope <a href="www.craigslist.org"> portfolio</a>.</p><!-- comment -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="https://www.instagram.com/binary_dirt_dirt/">Instagram</a> and <br> <a href="debian-deviant.github.io">Profile3</a>.</p>
 
